@@ -1,3 +1,6 @@
+//Konrad Jasman, CSC 225
+//Summer 2023 
+
 import java.awt.Color;
 import java.util.*;
 
@@ -177,11 +180,6 @@ public class GraphAlgorithms{
       }
     }
   } 
-
-
-  /* THE FOLLOWING METHODS WILL NOT BE MARKED;
-   * YOU MAY IMPLEMENT THEM OPTIONALLY
-   */
 
 	/* FloodFillDFS(v, writer, fillColour)
 	   Traverse the component the vertex v using DFS and set the colour 
